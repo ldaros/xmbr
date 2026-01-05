@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Gamepad2 } from "lucide-react";
-import { cn } from "@/lib/utils";
+import { cn, withBase } from "@/lib/utils";
 
 interface GameThumbnailProps {
     src: string | null;
@@ -49,7 +49,7 @@ export function GameThumbnail({
             style={{ width, height }}
         >
             <img
-                src={src || "/placeholder.svg"}
+                src={src || withBase("/placeholder.svg")}
                 alt={alt}
                 className="object-cover w-full h-full"
                 onError={() => setError(true)}

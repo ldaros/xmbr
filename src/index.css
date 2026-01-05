@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: "PS3";
-    src: url("/ps3/SCE-PS3-SR-R-LATIN.TTF") format("truetype");
+    src: url("../public/ps3/SCE-PS3-SR-R-LATIN.TTF") format("truetype");
     font-weight: normal;
     font-style: normal;
 }

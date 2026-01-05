@@ -1,13 +1,14 @@
 import { useCallback, useRef, useEffect } from "react";
+import { withBase } from "@/lib/utils";
 
 type SoundType = "navigate" | "select" | "back" | "category" | "startup";
 
 const SOUND_BASE_FILES: Record<SoundType, string> = {
-    navigate: "/ps3/snd_cursor",
-    select: "/ps3/snd_decide",
-    back: "/ps3/snd_cancel",
-    category: "/ps3/snd_category_decide",
-    startup: "/ps3/snd_system_ok",
+    navigate: withBase("/ps3/snd_cursor"),
+    select: withBase("/ps3/snd_decide"),
+    back: withBase("/ps3/snd_cancel"),
+    category: withBase("/ps3/snd_category_decide"),
+    startup: withBase("/ps3/snd_system_ok"),
 };
 
 export function useXMBSounds() {

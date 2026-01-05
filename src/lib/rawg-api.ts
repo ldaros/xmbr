@@ -1,3 +1,5 @@
+import { withBase } from "./utils";
+
 export interface Game {
     id: number;
     name: string;
@@ -23,7 +25,7 @@ export async function fetchPlayStationGames(
     page = 1,
     pageSize = 15
 ): Promise<GamesResponse> {
-    const response = await fetch("/games.json");
+    const response = await fetch(withBase("/games.json"));
     if (!response.ok) {
         throw new Error("Failed to fetch games");
     }
@@ -43,7 +45,7 @@ export async function searchGames(
     query: string,
     page = 1
 ): Promise<GamesResponse> {
-    const response = await fetch("/games.json");
+    const response = await fetch(withBase("/games.json"));
     if (!response.ok) {
         throw new Error("Failed to search games");
     }
@@ -65,7 +67,7 @@ export async function searchGames(
 }
 
 export async function fetchGameDetails(id: number): Promise<Game> {
-    const response = await fetch("/games.json");
+    const response = await fetch(withBase("/games.json"));
     if (!response.ok) {
         throw new Error("Failed to fetch game details");
     }

@@ -1,4 +1,5 @@
- import { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
+import { withBase } from "@/lib/utils";
 
 interface ColdBootProps {
     onComplete: () => void;
@@ -32,7 +33,7 @@ export function ColdBoot({ onComplete }: ColdBootProps) {
         if (!started) return;
 
         // Play cold boot sound
-        const audio = new Audio("/ps3/coldboot_stereo.wav");
+        const audio = new Audio(withBase("/ps3/coldboot_stereo.wav"));
         audio
             .play()
             .catch((err) =>

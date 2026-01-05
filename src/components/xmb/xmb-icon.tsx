@@ -1,4 +1,4 @@
-import { cn } from "@/lib/utils";
+import { cn, withBase } from "@/lib/utils";
 
 const ps3IconMap: Record<string, string> = {
     // Categories
@@ -84,7 +84,7 @@ export function XMBIcon({
         filename = DEFAULT_ICON;
     }
 
-    const iconSrc = `/ps3/${filename}`;
+    const iconSrc = withBase(`/ps3/${filename}`);
 
     if (variant === "item") {
         return (
