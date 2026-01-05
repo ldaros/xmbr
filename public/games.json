@@ -1,0 +1,2089 @@
+{
+    "results": [
+        {
+            "id": 22513,
+            "name": "Uncharted 2: Among Thieves",
+            "slug": "uncharted-2-among-thieves",
+            "background_image": "https://media.rawg.io/media/games/74b/74b239f6ef0216a2f66e652d54abb2e6.jpg",
+            "released": "2009-10-13",
+            "rating": 4.39,
+            "metacritic": 96,
+            "playtime": 13,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/74b/74b239f6ef0216a2f66e652d54abb2e6.jpg"
+                },
+                {
+                    "id": 510193,
+                    "image": "https://media.rawg.io/media/screenshots/c2a/c2a483758a22707799fec207a78d552f.jpg"
+                },
+                {
+                    "id": 510194,
+                    "image": "https://media.rawg.io/media/screenshots/a93/a93fcf9216cd814573dc4aa5ea3a80c8.jpg"
+                },
+                {
+                    "id": 510195,
+                    "image": "https://media.rawg.io/media/screenshots/51d/51d4bb10e5a9ff7111e6e40a9687aee5.jpg"
+                },
+                {
+                    "id": 510196,
+                    "image": "https://media.rawg.io/media/screenshots/503/5030d91eac59ab5b28eb6bdb7e41313c.jpg"
+                },
+                {
+                    "id": 510197,
+                    "image": "https://media.rawg.io/media/screenshots/442/4429d068cd37c213e40bb83fe9b7c65c.jpg"
+                },
+                {
+                    "id": 510198,
+                    "image": "https://media.rawg.io/media/screenshots/366/366cb6c21d945376b185d4b2d94a59c2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4286,
+            "name": "BioShock",
+            "slug": "bioshock",
+            "background_image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg",
+            "released": "2007-08-21",
+            "rating": 4.36,
+            "metacritic": 96,
+            "playtime": 3,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 5,
+                        "name": "macOS",
+                        "slug": "macos"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+                },
+                {
+                    "id": 170993,
+                    "image": "https://media.rawg.io/media/screenshots/01f/01f62d7064838a5c3202acfc61503487.jpg"
+                },
+                {
+                    "id": 170994,
+                    "image": "https://media.rawg.io/media/screenshots/7f5/7f517e07e36e4af5a7c0b86a7d42853f.jpg"
+                },
+                {
+                    "id": 170995,
+                    "image": "https://media.rawg.io/media/screenshots/aca/aca089b963a42ec4cbf56b5e5334af8e.jpg"
+                },
+                {
+                    "id": 170996,
+                    "image": "https://media.rawg.io/media/screenshots/3aa/3aa6f71eba1d64e671bd45826ca96560.jpg"
+                },
+                {
+                    "id": 170997,
+                    "image": "https://media.rawg.io/media/screenshots/d8e/d8ed29c7c0b41e4013588847944ed446.jpg"
+                },
+                {
+                    "id": 170998,
+                    "image": "https://media.rawg.io/media/screenshots/146/146e418797aca19296f90d259207414c.jpg"
+                }
+            ]
+        },
+        {
+            "id": 52370,
+            "name": "Metal Gear Solid 2: Sons of Liberty",
+            "slug": "metal-gear-solid-2-sons-of-liberty",
+            "background_image": "https://media.rawg.io/media/games/0f1/0f105a3d3ba6225269c4a08b43ecbb73.jpg",
+            "released": "2001-11-12",
+            "rating": 4.34,
+            "metacritic": 96,
+            "playtime": 12,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 80,
+                        "name": "Xbox",
+                        "slug": "xbox-old"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 19,
+                        "name": "PS Vita",
+                        "slug": "ps-vita"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/0f1/0f105a3d3ba6225269c4a08b43ecbb73.jpg"
+                },
+                {
+                    "id": 725541,
+                    "image": "https://media.rawg.io/media/screenshots/b41/b41d266e0df00a709033b5df801951f4.jpg"
+                },
+                {
+                    "id": 725542,
+                    "image": "https://media.rawg.io/media/screenshots/b4a/b4a112017533a5d916747f93fc799459.jpg"
+                },
+                {
+                    "id": 725543,
+                    "image": "https://media.rawg.io/media/screenshots/f3b/f3b44dbfc5738efacccd627a9ff83861.jpg"
+                },
+                {
+                    "id": 725544,
+                    "image": "https://media.rawg.io/media/screenshots/2e0/2e0941b4fb3c9c604b5858c3675d1bc5.jpg"
+                },
+                {
+                    "id": 725545,
+                    "image": "https://media.rawg.io/media/screenshots/2d5/2d58ac7561c4168ea3ed7b0fb4fe7bc8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 378578,
+            "name": "Grand Theft Auto IV: Complete Edition",
+            "slug": "grand-theft-auto-iv-complete-edition",
+            "background_image": "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg",
+            "released": "2010-10-27",
+            "rating": 4.58,
+            "metacritic": 95,
+            "playtime": 0,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/e59/e59cc96f38cc93af5a396173878018d7.jpg"
+                },
+                {
+                    "id": 2189842,
+                    "image": "https://media.rawg.io/media/screenshots/c82/c8278ac80481cf297730fbecac162428.jpg"
+                },
+                {
+                    "id": 2189843,
+                    "image": "https://media.rawg.io/media/screenshots/f1d/f1d10446805403a28b374fbd0f4bcc89.jpg"
+                },
+                {
+                    "id": 2189844,
+                    "image": "https://media.rawg.io/media/screenshots/1a6/1a6aa2235c187a2849e21db5cf8bfa07.jpg"
+                },
+                {
+                    "id": 2189845,
+                    "image": "https://media.rawg.io/media/screenshots/ce5/ce534ab69b8e122e0e466a1b0d15f33c.jpg"
+                },
+                {
+                    "id": 2189846,
+                    "image": "https://media.rawg.io/media/screenshots/0c7/0c71726d8be588e7c6b20795d1b81c25.jpeg"
+                },
+                {
+                    "id": 2189847,
+                    "image": "https://media.rawg.io/media/screenshots/cfc/cfc33207ca709e50d5e49e8987b85e7b.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4200,
+            "name": "Portal 2",
+            "slug": "portal-2",
+            "background_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+            "released": "2011-04-18",
+            "rating": 4.58,
+            "metacritic": 95,
+            "playtime": 11,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 7,
+                    "name": "Puzzle",
+                    "slug": "puzzle"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 5,
+                        "name": "macOS",
+                        "slug": "macos"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 6,
+                        "name": "Linux",
+                        "slug": "linux"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+                },
+                {
+                    "id": 99018,
+                    "image": "https://media.rawg.io/media/screenshots/221/221a03c11e5ff9f765d62f60d4b4cbf5.jpg"
+                },
+                {
+                    "id": 99019,
+                    "image": "https://media.rawg.io/media/screenshots/173/1737ff43c14f40294011a209b1012875.jpg"
+                },
+                {
+                    "id": 99020,
+                    "image": "https://media.rawg.io/media/screenshots/b11/b11a2ae0664f0e8a1ef2346f99df26e1.jpg"
+                },
+                {
+                    "id": 99021,
+                    "image": "https://media.rawg.io/media/screenshots/9b1/9b107a790909b31918ebe2f40547cc85.jpg"
+                },
+                {
+                    "id": 99022,
+                    "image": "https://media.rawg.io/media/screenshots/d05/d058fc7f7fa6128916c311eb14267fed.jpg"
+                },
+                {
+                    "id": 99023,
+                    "image": "https://media.rawg.io/media/screenshots/415/41543dcc12dffc8e97d85a56ad42cda8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3179,
+            "name": "LittleBigPlanet",
+            "slug": "littlebigplanet",
+            "background_image": "https://media.rawg.io/media/games/c32/c32fd6c512c48b3e2f10686a6e06690d.jpg",
+            "released": "2008-10-27",
+            "rating": 4.09,
+            "metacritic": 95,
+            "playtime": 5,
+            "genres": [
+                {
+                    "id": 11,
+                    "name": "Arcade",
+                    "slug": "arcade"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/c32/c32fd6c512c48b3e2f10686a6e06690d.jpg"
+                },
+                {
+                    "id": 507837,
+                    "image": "https://media.rawg.io/media/screenshots/0d4/0d44f7e91485cede283064489ea714c2.jpg"
+                },
+                {
+                    "id": 507838,
+                    "image": "https://media.rawg.io/media/screenshots/897/8978466a4eb1bc8ebc3c7459b9a42e35.jpg"
+                },
+                {
+                    "id": 507839,
+                    "image": "https://media.rawg.io/media/screenshots/abb/abb39b6dedcb8139e63b904b86519a84.jpg"
+                },
+                {
+                    "id": 507840,
+                    "image": "https://media.rawg.io/media/screenshots/cff/cffcbde4f2198bea2a6d26896e29d987.jpg"
+                },
+                {
+                    "id": 507841,
+                    "image": "https://media.rawg.io/media/screenshots/602/602b134e3e68da79f721822b38d4fe0b.jpg"
+                },
+                {
+                    "id": 507842,
+                    "image": "https://media.rawg.io/media/screenshots/551/5518099a4148caf855dc6cefee456413.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4544,
+            "name": "Red Dead Redemption",
+            "slug": "red-dead-redemption",
+            "background_image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg",
+            "released": "2010-05-18",
+            "rating": 4.42,
+            "metacritic": 95,
+            "playtime": 6,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 187,
+                        "name": "PlayStation 5",
+                        "slug": "playstation5"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 186,
+                        "name": "Xbox Series S/X",
+                        "slug": "xbox-series-x"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/686/686909717c3aa01518bc42ae2bf4259e.jpg"
+                },
+                {
+                    "id": 518885,
+                    "image": "https://media.rawg.io/media/screenshots/cf4/cf4ff03cc16bf7ccff78c1fb38bcafc2.jpg"
+                },
+                {
+                    "id": 518886,
+                    "image": "https://media.rawg.io/media/screenshots/304/304ad0c33748eff98812f057592741b6.jpg"
+                },
+                {
+                    "id": 518887,
+                    "image": "https://media.rawg.io/media/screenshots/ef7/ef743c271d18cf643a47543bf73fcf78.jpg"
+                },
+                {
+                    "id": 518888,
+                    "image": "https://media.rawg.io/media/screenshots/8f7/8f76b9883f00955461bb4f57cbf64914.jpg"
+                },
+                {
+                    "id": 518889,
+                    "image": "https://media.rawg.io/media/screenshots/7aa/7aafdcf2cf8a9863673b767f368a3291.jpg"
+                },
+                {
+                    "id": 518890,
+                    "image": "https://media.rawg.io/media/screenshots/495/495b5bc877060900fcad68d5c6fb19b2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4459,
+            "name": "Grand Theft Auto IV",
+            "slug": "grand-theft-auto-iv",
+            "background_image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "released": "2008-04-29",
+            "rating": 4.26,
+            "metacritic": 95,
+            "playtime": 10,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+                },
+                {
+                    "id": 139042,
+                    "image": "https://media.rawg.io/media/screenshots/07f/07f7cf80741ff306e4eca982c3e64ac8.jpg"
+                },
+                {
+                    "id": 139043,
+                    "image": "https://media.rawg.io/media/screenshots/fef/fefd51ec13aa33acbd796ef79bcef7cb.jpg"
+                },
+                {
+                    "id": 139044,
+                    "image": "https://media.rawg.io/media/screenshots/b78/b78ffd258d5793be704c380e572748bc.jpg"
+                },
+                {
+                    "id": 139045,
+                    "image": "https://media.rawg.io/media/screenshots/17c/17c85ab9dfc4fda8e1e5ba72932ef2bf.jpg"
+                },
+                {
+                    "id": 139046,
+                    "image": "https://media.rawg.io/media/screenshots/a12/a12ca99cc74c1e7eba7100b0891dd1e0.jpg"
+                },
+                {
+                    "id": 139047,
+                    "image": "https://media.rawg.io/media/screenshots/b25/b254f9729ae3f36a9ccffccaa01d5cf6.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3990,
+            "name": "The Last Of Us",
+            "slug": "the-last-of-us",
+            "background_image": "https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg",
+            "released": "2013-06-14",
+            "rating": 4.54,
+            "metacritic": 95,
+            "playtime": 15,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/a5a/a5a7fb8d9cb8063a8b42ee002b410db6.jpg"
+                },
+                {
+                    "id": 585189,
+                    "image": "https://media.rawg.io/media/screenshots/e58/e5851e0c9b08172369dc1a1814b1c275.jpg"
+                },
+                {
+                    "id": 585190,
+                    "image": "https://media.rawg.io/media/screenshots/4a8/4a8bc73ffc37e6794fd962736d0a5436.jpg"
+                },
+                {
+                    "id": 585191,
+                    "image": "https://media.rawg.io/media/screenshots/fd5/fd5e75708c5d123519f5329344d0a376.jpg"
+                },
+                {
+                    "id": 585192,
+                    "image": "https://media.rawg.io/media/screenshots/bf4/bf4453d613de19b737fbd5e6f5e1a069.jpg"
+                },
+                {
+                    "id": 585193,
+                    "image": "https://media.rawg.io/media/screenshots/e2e/e2e3d4facc46efbded4898106db91cc6.jpg"
+                },
+                {
+                    "id": 585194,
+                    "image": "https://media.rawg.io/media/screenshots/d07/d077fc6929186334ef47716abd5fd119.jpg"
+                }
+            ]
+        },
+        {
+            "id": 28581,
+            "name": "The Orange Box",
+            "slug": "the-orange-box",
+            "background_image": "https://media.rawg.io/media/games/55a/55a685051caa3d478836fa7c1d074694.jpg",
+            "released": "2008-01-01",
+            "rating": 4.54,
+            "metacritic": 94,
+            "playtime": 6,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 5,
+                        "name": "macOS",
+                        "slug": "macos"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 6,
+                        "name": "Linux",
+                        "slug": "linux"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/55a/55a685051caa3d478836fa7c1d074694.jpg"
+                },
+                {
+                    "id": 277415,
+                    "image": "https://media.rawg.io/media/screenshots/7f9/7f9844fb68b8917faadbdfa9261abef0.jpg"
+                },
+                {
+                    "id": 277416,
+                    "image": "https://media.rawg.io/media/screenshots/625/625ab90b94c166bbb8b4340587d36085.jpg"
+                },
+                {
+                    "id": 277417,
+                    "image": "https://media.rawg.io/media/screenshots/d14/d14c1c86014ad24eec1abb63382920e8.jpg"
+                },
+                {
+                    "id": 277418,
+                    "image": "https://media.rawg.io/media/screenshots/798/7988c2bed5fe86afe8574b1f6acb7134.jpg"
+                },
+                {
+                    "id": 277419,
+                    "image": "https://media.rawg.io/media/screenshots/27d/27dbfaf7cdf2acc49fcd597fcb889a07.jpg"
+                },
+                {
+                    "id": 277420,
+                    "image": "https://media.rawg.io/media/screenshots/089/089e78cdbc9e7f8a2be22e89a27d1f87.jpg"
+                }
+            ]
+        },
+        {
+            "id": 29179,
+            "name": "God of War I",
+            "slug": "god-of-war",
+            "background_image": "https://media.rawg.io/media/games/1aa/1aa4ca34a8a6bb57a2e065c8332dc230.jpg",
+            "released": "2005-03-22",
+            "rating": 4.36,
+            "metacritic": 94,
+            "playtime": 11,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 19,
+                        "name": "PS Vita",
+                        "slug": "ps-vita"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/1aa/1aa4ca34a8a6bb57a2e065c8332dc230.jpg"
+                },
+                {
+                    "id": 766259,
+                    "image": "https://media.rawg.io/media/screenshots/d3e/d3ee4420b00d327de2c58ba67f5795a2.jpg"
+                },
+                {
+                    "id": 766260,
+                    "image": "https://media.rawg.io/media/screenshots/fd7/fd72b4c08fd85fb2d045dbbf6f57a157.jpg"
+                },
+                {
+                    "id": 766261,
+                    "image": "https://media.rawg.io/media/screenshots/277/2770a1c5c74f7c955bfaf1f6f47d8d7b.jpg"
+                },
+                {
+                    "id": 766262,
+                    "image": "https://media.rawg.io/media/screenshots/0f5/0f5d809cbe088510231acf5877531642.jpg"
+                }
+            ]
+        },
+        {
+            "id": 40841,
+            "name": "Resident Evil Code: Veronica",
+            "slug": "resident-evil-code-veronica",
+            "background_image": "https://media.rawg.io/media/games/0a5/0a512dd1d273d1a7aba705944264ac44.jpg",
+            "released": "2000-02-03",
+            "rating": 4.22,
+            "metacritic": 94,
+            "playtime": 0,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 105,
+                        "name": "GameCube",
+                        "slug": "gamecube"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 106,
+                        "name": "Dreamcast",
+                        "slug": "dreamcast"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/0a5/0a512dd1d273d1a7aba705944264ac44.jpg"
+                },
+                {
+                    "id": 574324,
+                    "image": "https://media.rawg.io/media/screenshots/bad/bad936fadc59741816abff3fbfb23215.jpg"
+                },
+                {
+                    "id": 574325,
+                    "image": "https://media.rawg.io/media/screenshots/9c5/9c5b015504dedad42c3fc7a246147b3f.jpg"
+                },
+                {
+                    "id": 574326,
+                    "image": "https://media.rawg.io/media/screenshots/914/91400c75db77a52d08ebb2a939986b6b.jpg"
+                },
+                {
+                    "id": 574327,
+                    "image": "https://media.rawg.io/media/screenshots/db8/db8bee8a68524896734646887cd1ca31.jpg"
+                },
+                {
+                    "id": 574328,
+                    "image": "https://media.rawg.io/media/screenshots/4ac/4ac7b539d07225adc0b9fe8dd772172d.jpg"
+                },
+                {
+                    "id": 574329,
+                    "image": "https://media.rawg.io/media/screenshots/094/09417ac3da9ac39e58454bc0f9406ead.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5678,
+            "name": "The Elder Scrolls IV: Oblivion",
+            "slug": "the-elder-scrolls-iv-oblivion",
+            "background_image": "https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg",
+            "released": "2006-03-20",
+            "rating": 4.33,
+            "metacritic": 94,
+            "playtime": 4,
+            "genres": [
+                {
+                    "id": 51,
+                    "name": "Indie",
+                    "slug": "indie"
+                },
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/615/61503312a95d451198d80d9bae275f79.jpg"
+                },
+                {
+                    "id": 699219,
+                    "image": "https://media.rawg.io/media/screenshots/ab9/ab98bbed78adb7dadd2f2fa8da26b2ee.jpg"
+                },
+                {
+                    "id": 699220,
+                    "image": "https://media.rawg.io/media/screenshots/34b/34bb6ee9df5ea36b23036f31182ac0b7.jpg"
+                },
+                {
+                    "id": 699221,
+                    "image": "https://media.rawg.io/media/screenshots/953/95329cff6ca16f3ea20316ae64d734ac.jpg"
+                },
+                {
+                    "id": 699222,
+                    "image": "https://media.rawg.io/media/screenshots/367/3677db97e28c5e01d10c02100d73b030.jpg"
+                },
+                {
+                    "id": 699223,
+                    "image": "https://media.rawg.io/media/screenshots/527/527c9aed8f63fca5be732a2a037ca32d.jpg"
+                },
+                {
+                    "id": 699224,
+                    "image": "https://media.rawg.io/media/screenshots/2bb/2bb53aa00d269378dba8f240b066ed48.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4835,
+            "name": "N.O.V.A.",
+            "slug": "nova",
+            "background_image": "https://media.rawg.io/media/screenshots/a00/a009c9b997470dd1d5cb74127107af21.jpg",
+            "released": "2009-12-17",
+            "rating": 4.33,
+            "metacritic": 94,
+            "playtime": 0,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 17,
+                        "name": "PSP",
+                        "slug": "psp"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/screenshots/a00/a009c9b997470dd1d5cb74127107af21.jpg"
+                },
+                {
+                    "id": 2139828,
+                    "image": "https://media.rawg.io/media/screenshots/bb6/bb6fece8eee696d87f757cdf12113558.jpg"
+                },
+                {
+                    "id": 2139829,
+                    "image": "https://media.rawg.io/media/screenshots/e46/e469f3f1f8330846c900e6ce26d9e1da.jpg"
+                },
+                {
+                    "id": 2267889,
+                    "image": "https://media.rawg.io/media/screenshots/00b/00bf79e3cf004fa4edf1ff890a3457e4.jpg"
+                },
+                {
+                    "id": 2267890,
+                    "image": "https://media.rawg.io/media/screenshots/a00/a009c9b997470dd1d5cb74127107af21.jpg"
+                }
+            ]
+        },
+        {
+            "id": 42180,
+            "name": "The Elder Scrolls V: Skyrim Legendary Edition",
+            "slug": "the-elder-scrolls-v-skyrim-legendary-edition",
+            "background_image": "https://media.rawg.io/media/games/6db/6db2d022f77b1c99116bbf6750ec2c7d.jpg",
+            "released": "2013-06-04",
+            "rating": 4.59,
+            "metacritic": 94,
+            "playtime": 0,
+            "genres": [
+                {
+                    "id": 3,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/6db/6db2d022f77b1c99116bbf6750ec2c7d.jpg"
+                },
+                {
+                    "id": 609328,
+                    "image": "https://media.rawg.io/media/screenshots/ac1/ac1718fd93797bf4657014fd98db900f.jpg"
+                },
+                {
+                    "id": 609329,
+                    "image": "https://media.rawg.io/media/screenshots/f65/f65d270a4bccfd9fea90ef346faf0ab1.jpg"
+                },
+                {
+                    "id": 609330,
+                    "image": "https://media.rawg.io/media/screenshots/a5d/a5dd57675da4b26b60e1cbb52475c465.jpg"
+                },
+                {
+                    "id": 609331,
+                    "image": "https://media.rawg.io/media/screenshots/c13/c136075806f79a098ca788809ad69307.jpg"
+                },
+                {
+                    "id": 609332,
+                    "image": "https://media.rawg.io/media/screenshots/006/0061df33f1dd5a05c6f711e74aa99523.jpg"
+                },
+                {
+                    "id": 609333,
+                    "image": "https://media.rawg.io/media/screenshots/7f0/7f07211ed173143b77fa5955a7d58535.jpg"
+                }
+            ]
+        },
+        {
+            "id": 15642,
+            "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+            "slug": "the-elder-scrolls-iv-oblivion-game-of-the-year-edi",
+            "background_image": "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg",
+            "released": "2009-06-16",
+            "rating": 4.32,
+            "metacritic": 94,
+            "playtime": 5,
+            "genres": [
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/886/8868f9ea0c91d45316319ebf5dd4fc64.jpg"
+                },
+                {
+                    "id": 138529,
+                    "image": "https://media.rawg.io/media/screenshots/c6d/c6d15f154d08d8118e657fcf43daa246.jpg"
+                },
+                {
+                    "id": 138530,
+                    "image": "https://media.rawg.io/media/screenshots/023/0238f93b75f2fcfca13c21b12ff79bd8.jpg"
+                },
+                {
+                    "id": 138531,
+                    "image": "https://media.rawg.io/media/screenshots/aa8/aa8c568ea5a450b8e8994c28915eb1a5.jpg"
+                },
+                {
+                    "id": 138532,
+                    "image": "https://media.rawg.io/media/screenshots/397/3976f1360d454af25c7c21d43f7f7ec9.jpg"
+                },
+                {
+                    "id": 138533,
+                    "image": "https://media.rawg.io/media/screenshots/43a/43ab7f688c6c6054f0289bd6e43680b6.jpg"
+                },
+                {
+                    "id": 138534,
+                    "image": "https://media.rawg.io/media/screenshots/491/4910f9e335389eaf5cba4fcd4096448c.jpg"
+                }
+            ]
+        },
+        {
+            "id": 28623,
+            "name": "Batman: Arkham City",
+            "slug": "batman-arkham-city-2",
+            "background_image": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
+            "released": "2011-10-18",
+            "rating": 4.41,
+            "metacritic": 94,
+            "playtime": 20,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 5,
+                        "name": "macOS",
+                        "slug": "macos"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg"
+                },
+                {
+                    "id": 545262,
+                    "image": "https://media.rawg.io/media/screenshots/186/186256b37ba30738c118daefceba77e4.jpg"
+                },
+                {
+                    "id": 545263,
+                    "image": "https://media.rawg.io/media/screenshots/55b/55ba4f622a1babc31b54489ea0144758.jpg"
+                },
+                {
+                    "id": 545264,
+                    "image": "https://media.rawg.io/media/screenshots/bb5/bb5411aecf12acfd49faba2b6ce813a3.jpg"
+                },
+                {
+                    "id": 545265,
+                    "image": "https://media.rawg.io/media/screenshots/395/39596a0aa8ff855314e1e7f5d989456f.jpg"
+                },
+                {
+                    "id": 545266,
+                    "image": "https://media.rawg.io/media/screenshots/6b9/6b922232de644023769aa82cdff46fdf.jpg"
+                },
+                {
+                    "id": 545267,
+                    "image": "https://media.rawg.io/media/screenshots/3a4/3a458afd3a2787ade55e6b3756e73751.jpg"
+                }
+            ]
+        },
+        {
+            "id": 5679,
+            "name": "The Elder Scrolls V: Skyrim",
+            "slug": "the-elder-scrolls-v-skyrim",
+            "background_image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+            "released": "2011-11-11",
+            "rating": 4.42,
+            "metacritic": 94,
+            "playtime": 46,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 187,
+                        "name": "PlayStation 5",
+                        "slug": "playstation5"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 186,
+                        "name": "Xbox Series S/X",
+                        "slug": "xbox-series-x"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+                },
+                {
+                    "id": 118307,
+                    "image": "https://media.rawg.io/media/screenshots/3bd/3bd2710bd1ffb6664fdea7b83afd067e.jpg"
+                },
+                {
+                    "id": 118308,
+                    "image": "https://media.rawg.io/media/screenshots/d4e/d4e9b13f54748584ccbd6f998094dade.jpg"
+                },
+                {
+                    "id": 118309,
+                    "image": "https://media.rawg.io/media/screenshots/599/59946a630e9c7871003763d63184404a.jpg"
+                },
+                {
+                    "id": 118310,
+                    "image": "https://media.rawg.io/media/screenshots/c5d/c5dad426038d7d12f933eedbeab48ff3.jpg"
+                },
+                {
+                    "id": 118311,
+                    "image": "https://media.rawg.io/media/screenshots/b32/b326fa01c82db82edd41ed299886ee44.jpg"
+                },
+                {
+                    "id": 118312,
+                    "image": "https://media.rawg.io/media/screenshots/091/091e95b49d5a22de036698fc731395a2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4062,
+            "name": "BioShock Infinite",
+            "slug": "bioshock-infinite",
+            "background_image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+            "released": "2013-03-26",
+            "rating": 4.38,
+            "metacritic": 94,
+            "playtime": 12,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 7,
+                        "name": "Nintendo Switch",
+                        "slug": "nintendo-switch"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 6,
+                        "name": "Linux",
+                        "slug": "linux"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg"
+                },
+                {
+                    "id": 98549,
+                    "image": "https://media.rawg.io/media/screenshots/bf0/bf07e2c6d2c888d372917d9ef453c8a4.jpg"
+                },
+                {
+                    "id": 98550,
+                    "image": "https://media.rawg.io/media/screenshots/9d3/9d38833952812ad7888a6dc21699934f.jpg"
+                },
+                {
+                    "id": 98551,
+                    "image": "https://media.rawg.io/media/screenshots/595/59572d257b6797986e4eabcd1ee023fd.jpg"
+                },
+                {
+                    "id": 98552,
+                    "image": "https://media.rawg.io/media/screenshots/f71/f71c23eb76f050d6180490e82d58d799.jpg"
+                },
+                {
+                    "id": 98553,
+                    "image": "https://media.rawg.io/media/screenshots/871/8713411d5332ceb2b4092073a6f5f3f2.jpg"
+                },
+                {
+                    "id": 98554,
+                    "image": "https://media.rawg.io/media/screenshots/985/985b56daa78e0a23133518d4226e9f97.jpg"
+                }
+            ]
+        },
+        {
+            "id": 494369,
+            "name": "Metal Gear Solid 3: Subsistence",
+            "slug": "metal-gear-solid-3-subsistence",
+            "background_image": "https://media.rawg.io/media/games/3a1/3a1c43732e91c188a0079c9511e1e625.jpg",
+            "released": "2005-12-22",
+            "rating": 4.38,
+            "metacritic": 94,
+            "playtime": 0,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 19,
+                        "name": "PS Vita",
+                        "slug": "ps-vita"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/3a1/3a1c43732e91c188a0079c9511e1e625.jpg"
+                },
+                {
+                    "id": 3220408,
+                    "image": "https://media.rawg.io/media/screenshots/7c9/7c94e1110df51fca05ad19a8682f68da.jpg"
+                }
+            ]
+        },
+        {
+            "id": 57607,
+            "name": "Metal Gear Solid",
+            "slug": "metal-gear-solid-1",
+            "background_image": "https://media.rawg.io/media/games/bbc/bbce6f1659d35ffc16aed8b66e9990a1.jpg",
+            "released": "1998-09-03",
+            "rating": 4.39,
+            "metacritic": 94,
+            "playtime": 1,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 27,
+                        "name": "PlayStation",
+                        "slug": "playstation1"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 43,
+                        "name": "Game Boy Color",
+                        "slug": "game-boy-color"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/bbc/bbce6f1659d35ffc16aed8b66e9990a1.jpg"
+                },
+                {
+                    "id": 763507,
+                    "image": "https://media.rawg.io/media/screenshots/f22/f2220a7412d41e7242d90e06e4d13e4f.jpg"
+                },
+                {
+                    "id": 763508,
+                    "image": "https://media.rawg.io/media/screenshots/103/1033c7398e4007b315cd2c780dd1c044.jpg"
+                },
+                {
+                    "id": 763509,
+                    "image": "https://media.rawg.io/media/screenshots/80f/80f3f4aad1e511c2a6f70cc7964a13ab.jpg"
+                },
+                {
+                    "id": 763510,
+                    "image": "https://media.rawg.io/media/screenshots/ca9/ca9ddc69761db536810e17f1aa81148c.jpg"
+                },
+                {
+                    "id": 763511,
+                    "image": "https://media.rawg.io/media/screenshots/dd1/dd10d889d25bdc0b3b5f8b91df754fcb.jpg"
+                },
+                {
+                    "id": 763512,
+                    "image": "https://media.rawg.io/media/screenshots/208/208869f4456a168dedf58459d0c41773.jpg"
+                }
+            ]
+        },
+        {
+            "id": 4806,
+            "name": "Mass Effect 2",
+            "slug": "mass-effect-2",
+            "background_image": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg",
+            "released": "2010-01-26",
+            "rating": 4.46,
+            "metacritic": 94,
+            "playtime": 22,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 5,
+                    "name": "RPG",
+                    "slug": "role-playing-games-rpg"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg"
+                },
+                {
+                    "id": 182425,
+                    "image": "https://media.rawg.io/media/screenshots/3e9/3e987ae85497ded8e4fea09634be9c0a.jpg"
+                },
+                {
+                    "id": 182426,
+                    "image": "https://media.rawg.io/media/screenshots/be5/be56c7c5c5b0f10644213f99051525f4.jpg"
+                },
+                {
+                    "id": 182427,
+                    "image": "https://media.rawg.io/media/screenshots/61c/61c0fb8a92ffdd64e9355202cbf1d3f2.jpg"
+                },
+                {
+                    "id": 182428,
+                    "image": "https://media.rawg.io/media/screenshots/2aa/2aa8bf125cb9c7c20ee1d296a3c4a45e.jpg"
+                },
+                {
+                    "id": 182429,
+                    "image": "https://media.rawg.io/media/screenshots/90e/90ed4c6bb3c400ea3e825c47a09c41df.jpg"
+                },
+                {
+                    "id": 182430,
+                    "image": "https://media.rawg.io/media/screenshots/824/824e85651ba98e8539ef39b205428e88.jpg"
+                }
+            ]
+        },
+        {
+            "id": 53341,
+            "name": "Jet Set Radio",
+            "slug": "jet-set-radio-2012",
+            "background_image": "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg",
+            "released": "2000-06-29",
+            "rating": 3.41,
+            "metacritic": 94,
+            "playtime": 1,
+            "genres": [
+                {
+                    "id": 83,
+                    "name": "Platformer",
+                    "slug": "platformer"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 15,
+                    "name": "Sports",
+                    "slug": "sports"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 19,
+                        "name": "PS Vita",
+                        "slug": "ps-vita"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 24,
+                        "name": "Game Boy Advance",
+                        "slug": "game-boy-advance"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 106,
+                        "name": "Dreamcast",
+                        "slug": "dreamcast"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/fd7/fd794a9f0ffe816038d981b3acc3eec9.jpg"
+                },
+                {
+                    "id": 777455,
+                    "image": "https://media.rawg.io/media/screenshots/80c/80c35f2e7a7850178167a1441280faa4.jpg"
+                },
+                {
+                    "id": 777456,
+                    "image": "https://media.rawg.io/media/screenshots/bf2/bf25b3df1504b51df17a72cc60b660bb.jpg"
+                },
+                {
+                    "id": 777457,
+                    "image": "https://media.rawg.io/media/screenshots/c0c/c0c3573373a64bf173df877aa1860207.jpg"
+                },
+                {
+                    "id": 777458,
+                    "image": "https://media.rawg.io/media/screenshots/dfa/dfa0981ee4ed38603c36af4c005e80a1.jpg"
+                },
+                {
+                    "id": 777459,
+                    "image": "https://media.rawg.io/media/screenshots/bbb/bbbf0d1650823f732383020f02468f0f.jpg"
+                },
+                {
+                    "id": 777460,
+                    "image": "https://media.rawg.io/media/screenshots/94e/94e1a4e02e3c419aaa61c4b172fcbced.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3469,
+            "name": "Metal Gear Solid 4: Guns of the Patriots",
+            "slug": "metal-gear-solid-4-guns-of-the-patriots",
+            "background_image": "https://media.rawg.io/media/games/b27/b27eea9f8df280799b357b320f01211c.jpg",
+            "released": "2008-06-12",
+            "rating": 4.38,
+            "metacritic": 94,
+            "playtime": 20,
+            "genres": [
+                {
+                    "id": 2,
+                    "name": "Shooter",
+                    "slug": "shooter"
+                },
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/b27/b27eea9f8df280799b357b320f01211c.jpg"
+                },
+                {
+                    "id": 507687,
+                    "image": "https://media.rawg.io/media/screenshots/b3d/b3d7bda231b3091c64aca7a47955ddc3.jpg"
+                },
+                {
+                    "id": 507688,
+                    "image": "https://media.rawg.io/media/screenshots/ba0/ba07831cb5689fb0574cd96dee6cdd2e.jpg"
+                },
+                {
+                    "id": 507689,
+                    "image": "https://media.rawg.io/media/screenshots/330/33078293b86f6800f1875daaebd47281.jpg"
+                },
+                {
+                    "id": 507690,
+                    "image": "https://media.rawg.io/media/screenshots/1f6/1f68426bf3aa2fd47a9a45951cfc83cf.jpg"
+                },
+                {
+                    "id": 507691,
+                    "image": "https://media.rawg.io/media/screenshots/f96/f96f46a3aa32fa50092f59d1f27a949c.jpg"
+                },
+                {
+                    "id": 507692,
+                    "image": "https://media.rawg.io/media/screenshots/18a/18a016512cd30c17f0c37ac9b1735ae0.jpg"
+                }
+            ]
+        },
+        {
+            "id": 416,
+            "name": "Grand Theft Auto: San Andreas",
+            "slug": "grand-theft-auto-san-andreas",
+            "background_image": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg",
+            "released": "2004-10-26",
+            "rating": 4.5,
+            "metacritic": 93,
+            "playtime": 2,
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action"
+                }
+            ],
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 18,
+                        "name": "PlayStation 4",
+                        "slug": "playstation4"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "iOS",
+                        "slug": "ios"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 21,
+                        "name": "Android",
+                        "slug": "android"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 5,
+                        "name": "macOS",
+                        "slug": "macos"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 80,
+                        "name": "Xbox",
+                        "slug": "xbox-old"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 15,
+                        "name": "PlayStation 2",
+                        "slug": "playstation2"
+                    }
+                }
+            ],
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+                },
+                {
+                    "id": 91290,
+                    "image": "https://media.rawg.io/media/screenshots/679/679c267107151f01696d3c8ea71ac650.jpg"
+                },
+                {
+                    "id": 91291,
+                    "image": "https://media.rawg.io/media/screenshots/560/560610b498ef079e1f45ec83b039cbc7.jpg"
+                },
+                {
+                    "id": 91292,
+                    "image": "https://media.rawg.io/media/screenshots/c8c/c8cf7ea395e6aa2e46abee36d9d2d699.jpg"
+                },
+                {
+                    "id": 91293,
+                    "image": "https://media.rawg.io/media/screenshots/191/191445072d9e85b6ad7ffed5152fc17a.jpg"
+                },
+                {
+                    "id": 91294,
+                    "image": "https://media.rawg.io/media/screenshots/bfe/bfe3c652960e2b6869c608a58d69d327.jpg"
+                },
+                {
+                    "id": 91295,
+                    "image": "https://media.rawg.io/media/screenshots/436/436134f55bd10cfd7a6fd1ded7487355.jpg"
+                }
+            ]
+        }
+    ]
+}
